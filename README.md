@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hantong Wang
-- 👀 I’m interested in data analysis & visualization, user research, learning some cool skills 
+- 👀 I’m interested in data analysising & visualization, user research and learning some cool skills 
 - 🌱 I’m currently learning psychology in NanJing Normal University
 - 📫 How to reach me : wht9975@163.com
 
