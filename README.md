@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wanghantong
+- 👋 Hi, I’m Hantong Wang
 - 👀 I’m interested in data analysis & visualization, user research, learning some cool skills 
 - 🌱 I’m currently learning psychology in NanJing Normal University
 - 📫 How to reach me : wht9975@163.com
